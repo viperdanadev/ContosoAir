@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/viperdan/DevOpsPipelining/_apis/build/status/viperdanadev.ContosoAir?branchName=master)](https://dev.azure.com/viperdan/DevOpsPipelining/_build/latest?definitionId=32&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
